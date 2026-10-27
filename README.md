@@ -21,7 +21,7 @@ análisis, diseño y planeación (arquitectura en tres capas, modelo de pasos y 
 | Vogel, Simplex, Dos Fases, grafos | Esqueleto (`NotImplementedError`) |
 | Captura de programación lineal y grafos, exportación a PDF, editor de grafos | Pendiente |
 
-## Puesta en marcha en VS Code
+## Ejecución en VS Code
 
 Requiere Python 3.11 o superior.
 
