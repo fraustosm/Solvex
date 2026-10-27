@@ -79,13 +79,6 @@ con `fractions.Fraction`, cobertura mínima de 80 % en el motor, ramas cortas po
 mensajes de confirmación descriptivos. Una tarea está terminada cuando cumple su criterio de
 aceptación, tiene pruebas aprobadas, pasa ruff y mypy, y la integración continua está en verde.
 
-## Hoja de ruta por informe
-
-- Informe 2: reproductor y captura de matrices (hechos); Esquina Noroeste (hecha) y Vogel.
-- Informe 3: modelo de programación lineal, forma estándar y Simplex.
-- Informe 4: Dos Fases, interpretación de resultados, región factible y exportación a PDF.
-- Informe 5: modelo y editor de grafos; Dijkstra, Floyd-Warshall, Kruskal, Prim y Edmonds-Karp.
-- Informe 6: integración, pruebas de sistema y usabilidad, instaladores y documentación.
 
 Nota sobre el nombre: la aplicación se llama Solvex (nombre visible, ejecutable y comando `solvex`);
 el paquete interno de Python conserva el nombre `plataforma_io`. Antes de publicar el paquete o el
