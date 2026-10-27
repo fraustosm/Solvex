@@ -1,0 +1,2 @@
+[gui_scripts]
+solvex = plataforma_io.app:main

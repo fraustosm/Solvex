@@ -1,0 +1,1 @@
+"""Métodos sobre grafos."""
